@@ -1,26 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hossam El-Bassuiony</h1>
-<h3 align="center">DevOps Engineer | AWS & Cloud Platforms | CI/CD | Kubernetes | Terraform | Docker From Egypt</h3>
+<h3 align="center">DevOps Engineer | AWS & Cloud Platforms | CI/CD | Kubernetes | Terraform | Docker From Egypt</h3>  
 
+DevOps Engineer specializing in production-grade cloud infrastructure, CI/CD automation, and scalable containerized systems.
 
-- 🔭 I’m currently working on **migrating real-world platforms to AWS, building automated CI/CD pipelines, and implementing observability stacks (Prometheus, Grafana, Loki).**
+🔧 Core Expertise:
+- AWS, Terraform (IaC), Docker, Kubernetes (K3s, EKS), GitHub Actions, Jenkins, ArgoCD
+- Production infrastructure across AWS, Hostinger VPS, Hetzner & GoDaddy DNS
+- Observability stacks: Prometheus, Grafana, Loki
 
-- 🚀 Recent project: **Migrated ClikApp (social media platform) from Hostinger to AWS**, reduced latency by 25%, and automated deployments with GitHub Actions.  
+🚀 Recent Work:
+- Migrated ClikApp (social media platform) from Hostinger to AWS, reducing latency by 25%.
+- Designed and automated CI/CD pipelines with GitHub Actions.
+- Built secure mail server infrastructure using Mailu, SPF, DKIM, DMARC (no spam issues).
 
-- 🌱 I’m deepening my expertise in **Kubernetes at scale (EKS), GitOps with ArgoCD, and AWS cost optimization strategies.**
+👨‍💻 Featured Projects:
+- Terraform AWS Infrastructure
+- EnergiQ – EV Charging Platform (K3s, Terraform, Observability)
 
-- 👯 Open to collaborate on **cloud-native projects, infrastructure automation (Terraform/Ansible), and monitoring solutions.**
-
-- 🤝 I’m looking for opportunities to **contribute to open-source DevOps tools** and large-scale Kubernetes clusters.  
-
-- 👨‍💻 Check out my pinned projects:  
-  [Terraform AWS Project](https://github.com/Hossamelbassuiony310/Terraform_Project) •  
-  [Spring PetClinic CI/CD on K8s](https://github.com/Hossamelbassuiony310/Spring_Petclinic_CICD_K8s)
-
-- 💬 Ask me about **Docker, Kubernetes, Terraform, AWS, CI/CD pipelines, GitHub Actions, Jenkins, and observability.**
-
-- 📫 Reach me at **hossambesso7@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/hossam-el-bassuiony-43b72622a/)
-
-- 📄 My full resume is available here: [View CV](https://drive.google.com/file/d/1J0Jg1iwBLf89Xw_5dF9LIhNmwAXMKLHz/view?usp=sharing)
+📫 Contact:
+- Email: hossambesso7@gmail.com  
+- LinkedIn: [Hossam El Bassuiony](https://www.linkedin.com/in/hossam-el-bassuiony-43b72622a/)
+- Upwork: [Hossam El Sayed](https://www.upwork.com/freelancers/~016e96fa44933e8afb)
+- Full CV: [CV](https://drive.google.com/drive/folders/1Gt4NhheK0ymTb3Hc_LwWw6rshKZ2D-Vk)
 
 
 <h3 align="left">Connect with me:</h3>
