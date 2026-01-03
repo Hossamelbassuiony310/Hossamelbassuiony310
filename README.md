@@ -21,7 +21,7 @@ DevOps Engineer specializing in production-grade cloud infrastructure, CI/CD aut
 - Email: hossambesso7@gmail.com  
 - LinkedIn: [Hossam El Bassuiony](https://www.linkedin.com/in/hossam-el-bassuiony-43b72622a/)
 - Upwork: [Hossam El Sayed](https://www.upwork.com/freelancers/~016e96fa44933e8afb)
-- Full CV: [CV](https://drive.google.com/drive/folders/1Gt4NhheK0ymTb3Hc_LwWw6rshKZ2D-Vk)
+- Full CV: [CV](https://drive.google.com/file/d/1SyEZ_6NGadv9nifmkmgRaYswVWN_4Iik/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
